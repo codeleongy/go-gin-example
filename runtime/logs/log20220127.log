@@ -1,0 +1,6 @@
+[ERROR][article.go:68]2022/01/27 11:47:17 [err.key: %s, err.message“：%s state 状态只允许0或1]
+[ERROR][article.go:68]2022/01/27 11:47:17 [err.key: %s, err.message“：%s tag_id 标签id必须大于0]
+[ERROR][article.go:68]2022/01/27 13:07:25 [err.key: %s, err.message“：%s state 状态只允许0或1]
+[ERROR][article.go:68]2022/01/27 13:07:25 [err.key: %s, err.message“：%s tag_id 标签id必须大于0]
+[ERROR][article.go:68]2022/01/27 13:08:27 [err.key: %s, err.message“：%s state 状态只允许0或1]
+[ERROR][article.go:68]2022/01/27 13:08:27 [err.key: %s, err.message“：%s tag_id 标签id必须大于0]
