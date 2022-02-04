@@ -18,7 +18,7 @@ import (
 )
 
 const (
-	QRCODE_URL = "https://github.com/leong-y/gin-blog"
+	QRCODE_URL = "https://github.com/leong-y/go-gin-example"
 )
 
 // @Summary 获取特定文章
